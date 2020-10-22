@@ -1,0 +1,9 @@
+Company Stock and Investment
+
+On buiding the models for all three investments,dine by the company,I feel its good to invest in Gold as it gives the best prediction and seems genuine from the view of profit.
+
+On building the models using Gold Investment Column,we get a proper pattern as well as every value that seems to be required to see the accuracy seems to be approximal range.On plotting the prediction for next 2 years,it shows a little constant and increasing.
+
+On investing the oil,the prediction shows there is a little loss as compared to the previous data but tends to the constant rate of neither profit nor loss.
+
+Other investment don't gives the proper variations and becomes straight line after a while,so it seems to be confusing data.
